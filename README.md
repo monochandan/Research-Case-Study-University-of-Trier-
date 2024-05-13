@@ -45,7 +45,7 @@
 ![affected_1](https://github.com/monochandan/Research-Case-Study-2022-University-of-Trier-/assets/29684226/420387dc-4d09-40ac-88ed-d362a3da0bce)
 
 
-## The completed version of this work was presented at the 9th International Conference on Dynamics in Logistics (LDIC 2024), in Bremen, Germany.
+## The work was presented at the 9th International Conference on Dynamics in Logistics (LDIC 2024), in Bremen, Germany.
 https://link.springer.com/chapter/10.1007/978-3-031-56826-8_10
 
 
