@@ -1,22 +1,22 @@
 
 # Resilience Analysis of Traffic Infrastructure using Loss of Serviceability Index
 
-##### -- This paper discusses a novel method to evaluate how well traffic infrastructure can handle disruptions, like floods, by looking at the loss of serviceability. They applied this method to a case study in Trier, Germany, finding that the Kaiser-Wilhelm Brücke bridge was the most critical area affected by flooding.
+##### - This paper discusses a novel method to evaluate how well traffic infrastructure can handle disruptions, like floods, by looking at the loss of serviceability. They applied this method to a case study in Trier, Germany, finding that the Kaiser-Wilhelm Brücke bridge was the most critical area affected by flooding.
 
-##### -- The paper introduces a methodology using Loss of Serviceability (LoS) to assess traffic infrastructure resilience during disruptive events, demonstrated in a flooded area in Trier, Germany.
+##### - The paper introduces a methodology using Loss of Serviceability (LoS) to assess traffic infrastructure resilience during disruptive events, demonstrated in a flooded area in Trier, Germany.
 
 
-##### -- Insights from the analysis can guide policymakers to enhance transportation system reliability and robustness in similar contexts.
+##### - Insights from the analysis can guide policymakers to enhance transportation system reliability and robustness in similar contexts.
 
-##### -- Resilience of traffic systems is achieved through defining resilience, formulating resilience measures, and analyzing resilience measures to understand system robustness.
+##### - Resilience of traffic systems is achieved through defining resilience, formulating resilience measures, and analyzing resilience measures to understand system robustness.
 
-##### -- The case study demonstrates the LoS index methodology using OpenStreetMap and OSMnx to calculate LoS index for flooded areas in Trier and identify critical edges.
+##### - The case study demonstrates the LoS index methodology using OpenStreetMap and OSMnx to calculate LoS index for flooded areas in Trier and identify critical edges.
 
-##### -- Quantitative measures like probability of susceptibility, economic costs, recovery time, and disruption levels are used to measure transportation infrastructure resilience.
+##### - Quantitative measures like probability of susceptibility, economic costs, recovery time, and disruption levels are used to measure transportation infrastructure resilience.
 
-##### -- The Loss of Serviceability index is utilized to calculate network resilience by considering affected and non-affected areas, identifying critical edges in the network.
+##### - The Loss of Serviceability index is utilized to calculate network resilience by considering affected and non-affected areas, identifying critical edges in the network.
 
-##### -- For applying our method we choose Tries as a case study. We extracted road networks from Trier main city, nearby Mossel river. Which are more prone to affected by the natural disestar.
+##### - For applying our method we choose Tries as a case study. We extracted road networks from Trier main city, nearby Mossel river. Which are more prone to affected by the natural disestar.
 
 ## We have extracted road network using OSMnx Library in python
 
