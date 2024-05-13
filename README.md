@@ -1,7 +1,7 @@
 
 # Resilience Analysis of Traffic Infrastructure using Loss of Serviceability Index
 
-##### -- This paper discusses a method to evaluate how well traffic infrastructure can handle disruptions, like floods, by looking at the loss of serviceability. They applied this method to a case study in Trier, Germany, finding that the Kaiser-Wilhelm Brücke bridge was the most critical area affected by flooding.
+##### -- This paper discusses a novel method to evaluate how well traffic infrastructure can handle disruptions, like floods, by looking at the loss of serviceability. They applied this method to a case study in Trier, Germany, finding that the Kaiser-Wilhelm Brücke bridge was the most critical area affected by flooding.
 
 ##### -- The paper introduces a methodology using Loss of Serviceability (LoS) to assess traffic infrastructure resilience during disruptive events, demonstrated in a flooded area in Trier, Germany.
 
