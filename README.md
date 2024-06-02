@@ -32,7 +32,7 @@
 
 
 
-## Final result after applying our methodology (In python dataframe)
+## Final result after applying our methodology (Result In python dataframe)
 
 ![dataframe](https://github.com/monochandan/Research-Case-Study-2022-University-of-Trier-/assets/29684226/4dbeee32-bb4b-406e-ba5d-a32a326a7d2d)
 
