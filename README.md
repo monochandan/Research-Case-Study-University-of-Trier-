@@ -1,4 +1,4 @@
-# please Open the los_methodology_pdf_version for see the code, due to large file it takes time to open ipynb file !!!
+# please Open the los_methodology_pdf_version for see the code, due to large size it takes time to open ipynb file !!!
 ## Resilience Analysis of Traffic Infrastructure using Loss of Serviceability Index
 
 ##### - This paper discusses a novel method to evaluate how well traffic infrastructure can handle disruptions, like floods, by looking at the loss of serviceability. They applied this method to a case study in Trier, Germany, finding that the Kaiser-Wilhelm Brücke bridge was the most critical area affected by flooding.
